@@ -13,4 +13,4 @@ Singularity container recipe for Deep Learning with GPU for architecture x86_64 
 
 This recipe works on in the Cineca cluster (arch x86_64): 
 
-Galileo
+- Galileo
