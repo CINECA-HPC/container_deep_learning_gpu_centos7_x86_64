@@ -1,7 +1,7 @@
-# singularity_deep_learning_gpu_centos7_x86_64
-Singularity container recipe for Deep Learning with GPU for architecture x86_64 based on a CentOS 7. In the specific:  
+# container_deep_learning_gpu_centos7_x86_64
+Container recipes for Deep Learning with GPU for architecture x86_64 based on a CentOS 7. In the specific:  
 
-- centOS 7 with cuda library (10.0-devel-centos7) 
+- CentOS 7 with cuda library (10.0-devel-centos7) 
 - GNU compiler 7 
 - Python 3.6 
 - OpenMPI 2.1.1 (compiled with support for psm2, pmix, verbs) 
