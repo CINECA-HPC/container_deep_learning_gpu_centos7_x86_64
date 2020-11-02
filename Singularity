@@ -2,6 +2,7 @@ Bootstrap: docker
 From: nvidia/cuda:10.0-devel-centos7 
 IncludeCmd: yes
 
+
 %post
 
 # Python
