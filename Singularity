@@ -72,10 +72,10 @@ wget https://developer.download.nvidia.com/compute/machine-learning/repos/rhel7/
 wget https://developer.download.nvidia.com/compute/machine-learning/repos/rhel7/x86_64/libcudnn7-devel-7.6.5.32-1.cuda10.0.x86_64.rpm && \
     yum -y install libcudnn7-devel-7.6.5.32-1.cuda10.0.x86_64.rpm
 
-wget https://developer.download.nvidia.com/compute/machine-learning/repos/rhel7/x86_64/libnccl-2.6.4-1+cuda10.0.x86_64.rpm && \
+# wget https://developer.download.nvidia.com/compute/machine-learning/repos/rhel7/x86_64/libnccl-2.6.4-1+cuda10.0.x86_64.rpm && \
     yum -y install libnccl-2.6.4-1+cuda10.0.x86_64.rpm
 
-wget https://developer.download.nvidia.com/compute/machine-learning/repos/rhel7/x86_64/libnccl-devel-2.6.4-1+cuda10.0.x86_64.rpm && \
+# wget https://developer.download.nvidia.com/compute/machine-learning/repos/rhel7/x86_64/libnccl-devel-2.6.4-1+cuda10.0.x86_64.rpm && \
     yum -y install libnccl-devel-2.6.4-1+cuda10.0.x86_64.rpm
 
 
